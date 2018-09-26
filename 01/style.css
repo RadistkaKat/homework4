@@ -1,0 +1,30 @@
+.width-100{
+    width: 100%;
+}
+.right{
+    width: 1000px;
+    height: 50px;
+    text-align: right;
+    image-orientation: right;
+    background-color: blue;
+    color: white;
+}
+.colspan{
+    column-span: center;
+}
+.text-uppercase1{
+    text-transform:  uppercase;
+    color: blue;
+}
+.text-uppercase{
+    text-transform:  uppercase;
+    color: black;
+}
+.center{
+    text-align: center;
+    text-transform: uppercase;
+    image-orientation: center;
+    color: white;
+    background-color: blue;
+    
+}
